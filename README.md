@@ -7,4 +7,4 @@ My C# program tests this paradox by a series of experiments on randomly generate
 
 ----
 
-Program 2 - It places students to university according to points of students and quota of universities.
+Program 2 - It places students to universities according to points of students and quota of universities.
